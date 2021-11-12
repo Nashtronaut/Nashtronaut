@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Nashtronaut">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nashtronaut">
 
-##### My *Type 1 Diabetes is in total control thanks too Open Source projects:*
+##### *My Type 1 Diabetes is in total control thanks too Open Source projects:*
   - <a href="https://github.com/openaps">OpenAPS<a/>
   - <a href="https://androidaps.readthedocs.io/en/latest/">AndroidAPS</a>
   - <a href="https://nightscout.github.io/">Nightscout
