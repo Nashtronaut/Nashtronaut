@@ -15,6 +15,18 @@
 <p>My current goals are to complete an internship for a company that can round my skills out in any possible manner.</p>
 <p>There are plenty of things I don't understand or know about computer science... but zero things I am not willing to try and learn.</p>
 
+<p>I started learning python3 on my own back at a dead end job. I wanted a better future. I decided to apply for college after I discovered my love for code. Here are a few insights about my journey so far.</p>
+
+- I really enjoy backend coding.
+- I really enjoy frontend coding.
+- There is no code I don't enjoy.
+- I prefer linux over windows.
+- I want to learn more modern frameworks, but fundementals have been my focus.
+- JetBrains IDE's have been my favourite so far.
+- The topic of machine learning is very interesting to me.
+- I'll even dare to say this publically... I like Javascript.
+- I have a 120lb American Akita named Grizzlee. He is my rubber duck, but he does not look like one.
+
 <p>Please check out my https://nashtronaut.netlify.app for more information and a resume!</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nashtronaut">
