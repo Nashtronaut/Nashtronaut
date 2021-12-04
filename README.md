@@ -4,7 +4,7 @@
 
 ### Completion Date Jan 2022
 
-#### Currently seeking Co-op position for Spring or Winter!
+#### Happy to be a CGI Group Co-op student!
 
 <a href="mailto:nashboisvert1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/305961086782275586/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
