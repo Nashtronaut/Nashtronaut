@@ -27,9 +27,8 @@
 - I'll even dare to say this publically... I like Javascript.
 - I have a 120lb American Akita named Grizzlee. He is my rubber duck, but he does not look like one.
 
-<p>Please check out my https://nashtronaut.netlify.app for more information and a resume!</p>
+<p>Please check out my <a href="https://nashtronaut.netlify.app">website</a> for more information and a resume!</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Nashtronaut&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nashtronaut&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nashtronaut&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
