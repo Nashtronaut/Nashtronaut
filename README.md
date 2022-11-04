@@ -29,9 +29,9 @@
 
 <p>Please check out my <a href="https://nashtronaut.netlify.app">website</a> for more information and a resume!</p>
 
-![](https://github-readme-stats.vercel.app/api?username=nashtronaut&count_private=true&show_icons=true&theme=gotham)](https://github.com/nashtronaut/github-readme-stats)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nashtronaut&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nashtronaut&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=nashtronaut&count_private=true&show_icons=true&theme=gotham)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nashtronaut&theme=gotham&hide_border=false)
 
 ##### *My Type 1 Diabetes is in total control thanks too Open Source projects:*
   - <a href="https://github.com/openaps">OpenAPS<a/>
