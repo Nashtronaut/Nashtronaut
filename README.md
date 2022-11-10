@@ -33,10 +33,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=nashtronaut&count_private=true&show_icons=true&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nashtronaut&theme=gotham&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=Nashtronaut&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
+  
+### Thanks for the visit!
 
 ##### *My Type 1 Diabetes is in total control thanks too Open Source projects:*
   - <a href="https://github.com/openaps">OpenAPS<a/>
   - <a href="https://androidaps.readthedocs.io/en/latest/">AndroidAPS</a>
   - <a href="https://nightscout.github.io/">Nightscout
-  
-### Thanks for the visit!
