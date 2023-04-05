@@ -1,7 +1,7 @@
 # Nash Boisvert
 
-#### [Dipoma of Computer Software Developement]((https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
-#### [Northern Alberta Insitute of Technology]((https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
+#### [Dipoma of Computer Software Developement](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
+#### [Northern Alberta Insitute of Technology](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
 
 #### Full Stack Software Developer @ CGI Group
 
