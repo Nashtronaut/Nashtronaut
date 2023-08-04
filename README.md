@@ -3,7 +3,7 @@
 #### [Dipoma of Computer Software Development](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
 #### [Northern Alberta Insitute of Technology](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
 
-#### Full Stack Software Developer @ CGI Group
+#### Full Stack Software Developer @ Microquest
 
 <a href="mailto:nashboisvert1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/305961086782275586/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
