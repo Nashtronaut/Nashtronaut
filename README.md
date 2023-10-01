@@ -27,7 +27,6 @@
 <p>Please check out my <a href="https://nashtronaut.netlify.app">website</a> for more information and a resume!</p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=nashtronaut&count_private=true&show_icons=true&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Nashtronaut&theme=gotham&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=Nashtronaut&theme=chalk&no-frame=true&no-bg=false&margin-w=4)
   
