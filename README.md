@@ -32,7 +32,7 @@
   
 ### Thanks for the visit!
 
-##### *My Type 1 Diabetes is in total control thanks too Open Source projects:*
+##### *My Type 1 Diabetes is in total control thanks to Open Source projects:*
   - <a href="https://github.com/openaps">OpenAPS<a/>
   - <a href="https://androidaps.readthedocs.io/en/latest/">AndroidAPS</a>
   - <a href="https://nightscout.github.io/">Nightscout
