@@ -3,7 +3,7 @@
 #### [Dipoma of Computer Software Development](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
 #### [Northern Alberta Insitute of Technology](https://www.nait.ca/programs/dmit-computer-software-development?term=2023-spring)
 
-#### Full Stack Software Developer @ Microquest
+#### Lead Software Developer @ The Sports Aux
 
 <a href="mailto:nashboisvert1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://discordapp.com/users/305961086782275586/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -20,9 +20,7 @@
 - I really enjoy frontend coding.
 - I prefer linux over windows.
 - I have a 120lb American Akita named Grizzlee. He is my rubber duck, but he does not look like one.
-- I have done contract work for Burmis Studios.
-- I completed an 8 month Co-op for CGI Group, and then continued full-time after school.
-- I have been doing my best to learn about UI/UX design to pair with my react skillset.
+- I got a second one named Pixel since I first added the above.
 
 <p>Please check out my <a href="https://nashtronaut.netlify.app">website</a> for more information and a resume!</p>
 
