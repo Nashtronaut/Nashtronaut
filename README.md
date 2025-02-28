@@ -10,8 +10,6 @@
 <a href="https://www.linkedin.com/in/nash-boisvert/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://leetcode.com/Nashtronaut/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 
-<p>I am a dog loving, code writing, game playing, car driving hooligan.</p>
-
 <p>There are plenty of things I don't understand or know about computer science... but zero things I am not willing to try and learn.</p>
 
 <p>I started learning python3 on my own back at a dead end job. I wanted a better future. I decided to apply for college after I discovered my love for code. Here are a few insights about my journey so far.</p>
@@ -19,7 +17,7 @@
 - I really enjoy backend coding.
 - I really enjoy frontend coding.
 - I prefer linux over windows.
-- I have a 120lb American Akita named Grizzlee. He is my rubber duck, but he does not look like one.
+- I have a American Akita named Grizzlee.
 - I got a second one named Pixel since I first added the above.
 
 <p>Please check out my <a href="https://nashtronaut.netlify.app">website</a> for more information and a resume!</p>
